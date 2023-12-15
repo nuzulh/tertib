@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564548451430",
+    "project_id": "tertib-71f52",
+    "storage_bucket": "tertib-71f52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564548451430:android:0cecf6bddc97db73dcc1a7",
+        "android_client_info": {
+          "package_name": "com.example.tertib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6GAVgD-mbhXwOqGP-afUuQwjHIZjPyDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
